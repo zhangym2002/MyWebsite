@@ -1,3 +1,3 @@
 git add .
-git commit -m "更新内容"
+git commit -m "$(date)"
 git push origin master
